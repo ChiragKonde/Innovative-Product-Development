@@ -1,2 +1,2 @@
-# MIRAGE
-Destroying the illusion of safe web
+# SafeSurf
+Empowering Digital Safety
