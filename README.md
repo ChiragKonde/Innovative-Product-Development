@@ -63,6 +63,8 @@ report.py and score.py are linked where report.py calls scoring functions from s
 stream.py operates independently for real-time updates but fetches data from Firebase initialized in fire_db.py.
 This detailed pipeline connects your project's components based on their functionality and code interactions. If you need the exact line numbers for these interactions or further details on any part, please let me know!
 
+Output at Firebase
+
 ![image](https://github.com/user-attachments/assets/f0aa199b-ad10-4875-a7a9-7ae4b7aa664e)
 Final Outputs These below outputs are for various websites
 ![image](https://github.com/user-attachments/assets/27a53f93-688e-4b50-9b66-75422f3a5125)
