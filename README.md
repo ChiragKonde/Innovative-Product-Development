@@ -3,7 +3,8 @@ Empowering Digital Safety
 
 ![image](https://github.com/user-attachments/assets/e9ccda12-d548-4bda-b22e-bc796f8b7951)
 
-Innovative-Product-Development - We have developed a machine learning-powered browser extension to clarify website data collection practices. By analysing and simplifying complex privacy policies, our tool helps users understand data collection, storage, sharing, and risks, empowering them to make informed decisions and control their online privacy.
+Innovative-Product-Development -
+We have developed a machine learning-powered browser extension to clarify website data collection practices. By analysing and simplifying complex privacy policies, our tool helps users understand data collection, storage, sharing, and risks, empowering them to make informed decisions and control their online privacy.
 
 To create a detailed workflow pipeline showing the connections and interactions between your code files along with line references where these connections occur, I will analyze the content of the key Python files (main.py, fire_db.py, scraper.py, and others) that you uploaded. This analysis will outline how data flows through these files, which files are responsible for input, processing, and output, and the exact lines where these interactions are coded.
 
